@@ -33,7 +33,7 @@ A real-time financial transaction monitoring tool built with React and TypeScrip
 1. Clone the repository:
 
 ```bash
-git clone [repository-url]
+git clone git@github.com:felpst/financial-transaction-monitor.git
 cd financial-transaction-monitor
 ```
 
